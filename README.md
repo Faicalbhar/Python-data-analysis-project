@@ -72,10 +72,6 @@ Data Project/
 └─ data/                            # (Optional) dataset folder, ignored by Git
 ```
 
-## Notes & Next Steps
-- Replace absolute file paths with relative paths for portability.
-- Consider exporting key tables/figures to `outputs/` and adding a lightweight HTML report.
-- Add tests for metric calculations if evolving beyond EDA.
 
-## License
-Choose a license (e.g., MIT) if you plan to share or reuse. Add a `LICENSE` file.
+
+
